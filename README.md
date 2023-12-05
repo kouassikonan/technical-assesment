@@ -2,7 +2,7 @@
 technical assesment trimble
 
 This repository is for the trimble assignment.
-- the Notebook contains all the functions executed and tested there, you could check training process and some inferences.
+- the Notebook field_road_classifier.ipynb contains all the functions executed and tested there, you could check training process and some inferences.
 - report_kouassi_konan.pdf is the report of 1st deliverable
 
 - Paper_sumarry.pdf is the article summary, you could find the real article here : https://arxiv.org/pdf/2303.11638.pdf
