@@ -1,5 +1,4 @@
 # technical assesment
-technical assesment trimble
 
 This repository is for the trimble assignment.
 - the Notebook field_road_classifier.ipynb contains all the functions executed and tested there, you could check training process and some inferences.
