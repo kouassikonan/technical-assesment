@@ -18,13 +18,16 @@ before training your dataset should be like this:
 
 
   train_set
+  
       fields
           img.jpg
           ....
       roads
           img.jpg
           ....
+  
   test_set
+  
       fields
           img.jpg
           ....
