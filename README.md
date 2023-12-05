@@ -15,31 +15,20 @@ This repository is for the trimble assignment.
 
 - main.py is the main function of this repo , by running it you could perform the training operation and get your best model
 before training your dataset should be like this:
+
     train_set
-  
               fields
-  
                     img.jpg
-  
                     ....
-  
               roads
-  
                     img.jpg
-  
                     ....
     test_set
-  
               fields
-  
                     img.jpg
-  
                     ....
-  
               roads
-  
                     img.jpg
-  
                     ....
 
 
