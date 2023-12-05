@@ -1,4 +1,4 @@
-# technical-assesment
+# technical assesment
 technical assesment trimble
 
 This repository is for the trimble assignment.
